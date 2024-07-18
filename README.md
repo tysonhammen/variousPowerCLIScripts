@@ -1,1 +1,1 @@
-This script allows for the rotation of all passwords in the SDDC manager's control through a single script. The script will output these passwords to a CSV file as well as to the terminal. The root and admin passwords of the SDDC manager itself have been purposefully omitted to ensure that there is always a way to retrieve the passwords.
+This repo is a collection of various PowerCLI scripts that have been created to make management of various VMware products easier and more efficient.
