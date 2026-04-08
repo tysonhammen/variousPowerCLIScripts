@@ -1,4 +1,5 @@
-﻿Import-Module vmware.powercli
+# SDDC Manager / VCF credential rotation only. For standalone VxRail integration accounts (lockbox + vsphere.local + ESXi), see VxRail-RotateIntegrationPasswords.ps1.
+Import-Module vmware.powercli
 Import-Module powervcf
 
 #General Variables
